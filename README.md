@@ -1,4 +1,4 @@
-I have been reading [Godel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach). The book includes discussion of quines: structures that are self replicating. It is possible to create programs that are quines: they print their own source code. I thought I would try it out in python.
+I have been reading [Godel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach). The book includes discussion of quines: structures that are self replicating. It is possible to create programs that are quines, that is, programts that print their own source code. I thought I would try it out in python.
 
 `quine.py` prints it's own source code.
 
